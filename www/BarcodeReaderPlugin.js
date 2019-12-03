@@ -268,7 +268,8 @@ function BarcodeReaderPlugin()
         PROPERTY_UPC_E_TWO_CHAR_ADDENDA_ENABLED: "DEC_UPCE_2CHAR_ADDENDA_ENABLED",
         TRIGGER_CONTROL_MODE_AUTO_CONTROL: "autoControl",
         TRIGGER_CONTROL_MODE_CLIENT_CONTROL: "clientControl",
-        TRIGGER_CONTROL_MODE_DISABLE: "disable"
+        TRIGGER_CONTROL_MODE_DISABLE: "disable",
+        PROPERTY_TRIGGER_SCAN_MODE: "oneShot"
     };
 }
 
